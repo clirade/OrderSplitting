@@ -1,0 +1,9 @@
+C:\Users\Clifford\Desktop\HelloWorld1\bin\Debug\HelloWorld1.exe.config
+C:\Users\Clifford\Desktop\HelloWorld1\bin\Debug\HelloWorld1.exe
+C:\Users\Clifford\Desktop\HelloWorld1\bin\Debug\HelloWorld1.pdb
+C:\Users\Clifford\Desktop\HelloWorld1\obj\Debug\HelloWorld1.csprojResolveAssemblyReference.cache
+C:\Users\Clifford\Desktop\HelloWorld1\obj\Debug\HelloWorld1.Form1.resources
+C:\Users\Clifford\Desktop\HelloWorld1\obj\Debug\HelloWorld1.Properties.Resources.resources
+C:\Users\Clifford\Desktop\HelloWorld1\obj\Debug\HelloWorld1.csproj.GenerateResource.Cache
+C:\Users\Clifford\Desktop\HelloWorld1\obj\Debug\HelloWorld1.exe
+C:\Users\Clifford\Desktop\HelloWorld1\obj\Debug\HelloWorld1.pdb
